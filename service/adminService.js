@@ -9,4 +9,5 @@ module.exports.adminLoginSuccess = function(redirectPage, res) {
         return res.redirect('/admin')
     }
 }
+
 */
